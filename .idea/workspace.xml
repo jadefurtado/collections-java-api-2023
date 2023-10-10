@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Desafio Pesquisa com List SomaNumeros">
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoNumeros.java" afterDir="false" />
+    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Desafio ordenação de números">
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OrdenacaoNumeros">
+  <component name="RunManager" selected="Application.ConjuntoPalavrasUnicas">
     <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
       <module name="collections-java-api-2023" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConjuntoConvidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.OperacoesBasicas.ConjuntoConvidados" />
+    <configuration name="ConjuntoPalavrasUnicas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.OperacoesBasicas.ConjuntoPalavrasUnicas" />
       <module name="collections-java-api-2023" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConjuntoPalavrasUnicas" />
         <item itemvalue="Application.OrdenacaoNumeros" />
         <item itemvalue="Application.SomaNumeros" />
         <item itemvalue="Application.CadastroProdutos" />
         <item itemvalue="Application.AgendaContatos" />
-        <item itemvalue="Application.ConjuntoConvidados" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696962759251</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Desafio ordenação de números">
+      <created>1696964578690</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696964578690</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +194,7 @@
     <MESSAGE value="Criando classe Pessoa e usando métodos de ordenação" />
     <MESSAGE value="Criando um set de contatos e função de pesquisar por nome" />
     <MESSAGE value="Desafio Pesquisa com List SomaNumeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio Pesquisa com List SomaNumeros" />
+    <MESSAGE value="Desafio ordenação de números" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio ordenação de números" />
   </component>
 </project>
