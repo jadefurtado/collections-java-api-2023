@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Desafio ordenação de números">
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java" afterDir="false" />
+    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Desafio operações básicas com Set: conjunto de palavras únicas">
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/GerenciadorAlunos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,20 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConjuntoPalavrasUnicas">
-    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
-      <module name="collections-java-api-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="set.Pesquisa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GerenciadorAlunos">
     <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.Ordenacao.CadastroProdutos" />
       <module name="collections-java-api-2023" />
@@ -73,6 +61,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="set.OperacoesBasicas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GerenciadorAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Ordenacao.GerenciadorAlunos" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GerenciadorAlunos" />
         <item itemvalue="Application.ConjuntoPalavrasUnicas" />
         <item itemvalue="Application.OrdenacaoNumeros" />
         <item itemvalue="Application.SomaNumeros" />
         <item itemvalue="Application.CadastroProdutos" />
-        <item itemvalue="Application.AgendaContatos" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696964578690</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Desafio operações básicas com Set: conjunto de palavras únicas">
+      <created>1696966281674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966281674</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,7 @@
     <MESSAGE value="Criando um set de contatos e função de pesquisar por nome" />
     <MESSAGE value="Desafio Pesquisa com List SomaNumeros" />
     <MESSAGE value="Desafio ordenação de números" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio ordenação de números" />
+    <MESSAGE value="Desafio operações básicas com Set: conjunto de palavras únicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio operações básicas com Set: conjunto de palavras únicas" />
   </component>
 </project>
