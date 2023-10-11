@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Pesquisa com Set usando o exemplo de uma lista de tarefas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/EstoqueProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Map com produtos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/ContagemPalavras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EstoqueProdutos">
+  <component name="RunManager" selected="Application.ContagemPalavras">
     <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="map.OperacoesBasicas.AgendaContatos" />
       <module name="collections-java-api-2023" />
@@ -56,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConjuntoPalavrasUnicas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.OperacoesBasicas.ConjuntoPalavrasUnicas" />
+    <configuration name="ContagemPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Pesquisa.ContagemPalavras" />
       <module name="collections-java-api-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.OperacoesBasicas.*" />
+          <option name="PATTERN" value="map.Pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContagemPalavras" />
         <item itemvalue="Application.EstoqueProdutos" />
         <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.ListaTarefas" />
         <item itemvalue="Application.GerenciadorAlunos" />
-        <item itemvalue="Application.ConjuntoPalavrasUnicas" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696985566361</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Map com produtos">
+      <created>1697050439288</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697050439288</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +225,7 @@
     <MESSAGE value="Desafio operações básicas com Set: conjunto de palavras únicas" />
     <MESSAGE value="Ordenação de alunos usando o Set" />
     <MESSAGE value="Pesquisa com Set usando o exemplo de uma lista de tarefas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pesquisa com Set usando o exemplo de uma lista de tarefas" />
+    <MESSAGE value="Map com produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map com produtos" />
   </component>
 </project>
