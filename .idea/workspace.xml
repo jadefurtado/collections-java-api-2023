@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Map de palavras para Contagem de Palavras">
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/AgendaEventos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/Evento.java" afterDir="false" />
+    <list default="true" id="4c7e3c8d-b50e-4ffd-9c25-2560222aa900" name="Changes" comment="Criando uma agenda de eventos com Map">
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/LivrariaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/Ordenacao/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AgendaEventos">
+  <component name="RunManager" selected="Application.LivrariaOnline">
     <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="map.OperacoesBasicas.AgendaContatos" />
       <module name="collections-java-api-2023" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Pesquisa.ListaTarefas" />
+    <configuration name="LivrariaOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Ordenacao.LivrariaOnline" />
       <module name="collections-java-api-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.Pesquisa.*" />
+          <option name="PATTERN" value="map.Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LivrariaOnline" />
         <item itemvalue="Application.AgendaEventos" />
         <item itemvalue="Application.ContagemPalavras" />
         <item itemvalue="Application.EstoqueProdutos" />
         <item itemvalue="Application.AgendaContatos" />
-        <item itemvalue="Application.ListaTarefas" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697051194198</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Criando uma agenda de eventos com Map">
+      <created>1697057134389</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697057134389</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +246,7 @@
     <MESSAGE value="Pesquisa com Set usando o exemplo de uma lista de tarefas" />
     <MESSAGE value="Map com produtos" />
     <MESSAGE value="Map de palavras para Contagem de Palavras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map de palavras para Contagem de Palavras" />
+    <MESSAGE value="Criando uma agenda de eventos com Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando uma agenda de eventos com Map" />
   </component>
 </project>
